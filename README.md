@@ -1,4 +1,4 @@
-# pizzaria-database
+# restaurante-db
 
 Este é mais um projeto acadêmico de um banco de dados (POSTGRESQL) usado para gerenciar operações em um restaurante fictício. Ele inclui tabelas para cadastro de clientes, menus, mesas e etc. permitindo rastrear e manipular a situação do restaurante além de melhorar a organização.
 
