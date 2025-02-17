@@ -28,7 +28,7 @@ tabelas principais:
   ```bash
   git clone https://github.com/Emanoellima-dev/reataurante-db
 ```
-2. importe o arquivo [pizzaria.sql](https://github.com/Emanoellima-dev/pizzaria-database/blob/main/pizzaria.sql) em seu banco de dados postgresql usando o software de sua preferencia.
+2. importe o arquivo [restaurante.sql](https://github.com/Emanoellima-dev/reataurante-db/blob/main/restaurante.sql) em seu banco de dados postgresql usando o software de sua preferencia.
 3. acesse o banco de dados e realize as consultas.
 
 ## Observações
